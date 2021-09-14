@@ -1,0 +1,16 @@
+# Automatic Dice Roller
+
+# Written by Amarie Anderson
+import random
+from random import randint
+
+print ("Automatic Dice Roller")
+input("Press Enter to Roll")
+
+random_number = random.randint(1,6)
+print (random_number)
+x = input ("press x to quit Press enter to roll again ")
+while x == (""):
+    random_number = random.randint(1,6)
+    print (random_number)
+    x = input ("press x to quit Press enter to roll again ")
