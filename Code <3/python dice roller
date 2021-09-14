@@ -14,3 +14,4 @@ while x == (""):
     random_number = random.randint(1,6)
     print (random_number)
     x = input ("press x to quit Press enter to roll again ")
+print("goodbye")
