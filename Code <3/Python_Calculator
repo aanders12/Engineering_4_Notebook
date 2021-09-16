@@ -1,0 +1,27 @@
+# Python Program 01 - Calculator (ENGR4)
+# Written by Amarie Anderson
+#9.16.2021
+
+def doMath(a,b,strike): # created new function, named doMath, inserted variables a, b, and strike
+    if strike == 1:  
+        return str(a + b)  # return function into string, for every if statment
+    if strike == 2:
+        return str(a - b) 
+    if strike == 3:
+        return str(a * b)
+    if strike == 4:
+        return str(round(a / b,2)) # round after string, limits answer to two decimals
+    if strike == 5:
+        return str(a % b)
+        
+print("Calculator Program")
+
+# set a and b into inputs, interacts with bottom string function
+a = int(input("Enter Your First Number"))
+b = int(input("Enter Your Second Number"))
+
+print("Sum:\t\t" + doMath(a,b,1))
+print("Difference:\t" + doMath(a,b,2))
+print("Product:\t" + doMath(a,b,3))
+print("Quotient:\t" + doMath(a,b,4))
+print("Modulo:\t\t" + doMath(a,b,5))
