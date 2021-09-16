@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Python_Calculator](#Python_Calculator)
 
-## Python Calculator
+## Python_Calculator
 
 ### Assignment Description
 the assignment was to program a calculator that would recieve the sum, difference, product, quotiient, and modulo within a singular function given two variables.
