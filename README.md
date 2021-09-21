@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Python_Calculator](#Python_Calculator)
+* [Quadratic Solver](#Quadratic_Solver)
 
 ## Python_Calculator
 
