@@ -6,8 +6,8 @@
 
 from math import sqrt
 def discriminate():
-    dis = (b**2) - (4*a*c)
-    if dis > 0 :
+    dis = (b**2) - (4*a*c) # declares the discriminate and establishes intial equation 
+    if dis > 0 : # if statment declares multiple scenarios of code, also establishes outputs
         print("two roots possible", dis)
         ans1 = ((-b-sqrt(dis))/ 2 * a )
         ans2 = ((-b+sqrt(dis))/ 2 * a )
@@ -24,12 +24,14 @@ def discriminate():
 print("Quadratic Solver")
 print("enter the coefficents for ax^2 + bx + c = 0")
 
+#declares input
 a = int(input("Enter coefficent a:"))
 b = int(input("Enter coefficent b:"))
 c = int(input("Enter coefficent c:"))
 discriminate()
 x = input ("press enter to run again, press x then enter to quit")
 
+#while loop declared, required to run code repeatedly
 while x == (""):
     a = int(input("Enter coefficent a"))
     b = int(input("Enter coefficent b"))
