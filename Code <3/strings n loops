@@ -1,0 +1,20 @@
+# Python Program 03 - Strings and Loops (ENGR4)
+
+#Written by Amarie Anderson
+
+#9.23.202
+
+
+print("type in your text then press enter") #initial opening statment
+
+str1 = input("enter simple sentence") #setting input variable
+
+str2 = (str1.split()) # calls split command to inital variable, creates new variable in for loop
+
+for word in str2: # for loop calls for word sequence, set variable to str1 input.
+    #blank
+        for letter in word:
+            print (letter) #prints every letter of each word
+        print("-") #adds dash into empty position after running previous loop, spacial relation very important
+
+ 
