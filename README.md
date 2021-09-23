@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#Quadratic_Solver)
+* [Strings and Loops](#Strings_and_Loops)
 
 ## Python_Calculator
 
@@ -27,3 +28,15 @@ The assignment was to program a simple code that would solve a quadratic functio
 
 ### Reflection
 This assignment saw the reapperance of creating a function, combined with the new usage of mathematic commands in python. It took me two class periods to complete, the main thing to halt progress was the research of the new forms of code and insuring I understood the formation.
+
+## Strings and Loops
+
+### Assignment Description
+the assignment was to create a program that splits a simple semtence, given by user input.
+
+## Evidence
+![image](https://user-images.githubusercontent.com/61207267/134523451-48b14977-7b5b-4198-92ad-2ac4fbd864c9.png)
+
+### Reflection
+my main source of issue was sequencing errors, but after overcoming those troubles I had a better grasp of understanding exactly what functions were doing, it was a hardship that left me more advanced and better improved at python. The new aspects of code covered were strings, split functions, and a revist to for loops. My apreaciation for pythons simple and sleek code language is great.
+
