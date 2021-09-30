@@ -1,0 +1,21 @@
+# Opening Sequence ...
+
+# Written by Amarie
+
+# 09.28.21
+
+
+word = input ("player one, enter your word:")
+guess = input("player two, guess")
+
+def mspicture
+    print("---┐")
+  
+    
+    if guess  word
+        
+    
+print("  0 ")
+print(" \|/ ")
+print("  | ")
+print(" / \ ")
