@@ -58,7 +58,7 @@ while (limbs > 0 and guess != word) :
         correctLetters = correctLetters + guessLetter
     for spot in range(len(word)):
         if word[spot] in correctLetters:
-            guess = guess[:spot] + guessLetter + guess[spot+1:]
+            guess = guess[:spot] + word[spot] + guess[spot+1:]
             yesGuess = True
     if yesGuess == False:
         limbs = limbs - 1
