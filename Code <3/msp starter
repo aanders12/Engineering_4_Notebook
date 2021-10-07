@@ -42,13 +42,30 @@ def wordLength():
     print ("_ " * length)
 
 word = input("Player 1 Enter a word")
-limbs = 4
+limbs = 4 # sets the amount of turns to four, based on limb grouping
 guesses = 0 
 print("\n" *50 )
+body(limbs)
 wordLength()
 guess = input("Player 2 Guess a letter")
 letter = list(word)
-body(limbs)
 
 while (limbs > 0 and guess != word) :
-    failed = 0 
+    yesGuess = False #boolean
+    guessLetter = input("guess letter")
+    for spot in range(len(word)):
+        if word[spot] == guessLetter:
+            guess = guess[:spot] + guessLetter + guess[spot+1:]
+            yesGuess = True
+    if yesGuess == False:
+        limbs = limbs - 1
+    body(limbs)
+    print(guess)
+    
+if (limbs == 0):
+    body(limbs)
+    print("you lost, the word was:", + word)
+else:
+    print("you won, the word was:", + word)
+
+   
