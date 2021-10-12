@@ -1,0 +1,107 @@
+# Python Program Challenge - MSP (ENGR4)
+
+# Written by Amarie Anderson
+
+# 09.28.21
+
+head =    "   0  "
+oneArm =  "  \|  "
+twoArms = "  \|/ "
+torso =   "   |  "
+oneLeg =  "  /   "
+twoLegs = "  / \ "
+#creates body pattern and gives name to sections
+
+def body(limbs):
+    print("|---┐")  
+    if limbs == 7:
+        print("")
+        print("")
+        print("")
+        print("")
+    if limbs == 6:
+        print(head)
+        print("")
+        print("")
+        print("")
+        print("")
+        
+    if limbs == 5:
+        print(head)
+        print(oneArm)
+        print("")
+        print("")
+        print("")
+        
+    if limbs == 4:
+        print(head)
+        print(twoArms)
+        print("")
+        print("")
+        print("")
+        
+    if limbs == 3:
+        print(head)
+        print(twoArms)
+        print(torso)
+        print("")
+        print("")
+        
+    if limbs == 2:
+        print(head)
+        print(twoArms)
+        print(torso)
+        print(oneLeg)
+        print("")
+        
+    if limbs == 1:
+        print(head)
+        print(twoArms)
+        print(torso)
+        print(oneLeg)
+        print("")
+        
+    if limbs == 0:
+        print(head)
+        print(twoArms)
+        print(torso)
+        print(twoLegs)
+        print("")
+#creates a function that relates turns of guessing to print pattern
+        
+def wordLength():
+    length = len(word)
+    print ("_ " * length)
+    # creates funtion that telates initial input ( player ones owrd) into dashes for initial words length was replaced by simpler command
+
+word = input("Player 1 Enter a word")
+limbs = 7 # sets the amount of turns to seven, based on limb grouping
+guesses = 0 # sets guess counter at zero
+print("\n" *50 ) # provided distance so player 2 could not see player ones word
+body(limbs) #calls function
+wordLength() #calls function
+guess = "_" * len(word) #this replaces function created earlier, does the same thing
+letter = list(word)
+correctLetters = ""
+
+while (limbs > 0 and guess != word) :
+    yesGuess = False #booleane created
+    letterGuess = input("Player 2 Guess a letter")
+    if correctLetters in word:
+        correctLetters = correctLetters + letterGuess
+    for spot in range(len(word)):
+        if word[spot] == letterGuess:
+            guess = guess[:spot] + word[spot] + guess[spot+1:]
+            yesGuess = True
+            
+    if yesGuess == False:
+        limbs = limbs - 1
+ # this while loop connects each previous function, puts guesses in relation to pattern and word listing 
+ 
+    body(limbs)
+    print(guess)
+if (limbs == 0):
+    body(limbs)
+    print("you lost, the word was: " +word)
+else:
+    print("you won, the word was: " +word)
