@@ -4,6 +4,7 @@
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#Quadratic_Solver)
 * [Strings and Loops](#Strings_and_Loops)
+* [Man Shaped Pinata](#MSP)
 
 ## Python_Calculator
 
@@ -40,3 +41,13 @@ the assignment was to create a program that splits a simple semtence, given by u
 ### Reflection
 my main source of issue was sequencing errors, but after overcoming those troubles I had a better grasp of understanding exactly what functions were doing, it was a hardship that left me more advanced and better improved at python. The new aspects of code covered were strings, split functions, and a revist to for loops. My apreaciation for pythons simple and sleek code language is great.
 
+## Man_Shaped_Pinata
+
+### Assignment Description
+the assignment was to create a program that would propose the infamous hangman game, it needed to incorporate input from two players, a pattern print, and word recognition
+
+### Evidence
+![image](https://user-images.githubusercontent.com/61207267/136968326-f01a2267-6e14-4037-af15-dd0e1aaee8ef.png)
+
+### Reflection
+This project was definitley difficult but really incorporated the previous projects to meet a grand conclusion. It took a better understanding of syntax to furthur devolop the complexities of the code and how it orcastates. The layering of skills was well incorporated and the limited instruction required me to play off of others ideas to come to my own conclusion. I think I did well and was only frustrated a few times.
