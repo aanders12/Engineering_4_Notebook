@@ -5,6 +5,7 @@
 * [Quadratic Solver](#Quadratic_Solver)
 * [Strings and Loops](#Strings_and_Loops)
 * [Man Shaped Pinata](#MSP)
+* [CAD Swing Arm](#CAD_Swing_Arm)
 * [Intro to CAD Skateboard](#Intro_to_CAD)
 
 ## Python_Calculator
@@ -53,14 +54,24 @@ the assignment was to create a program that would propose the infamous hangman g
 ### Reflection
 This project was definitley difficult but really incorporated the previous projects to meet a grand conclusion. It took a better understanding of syntax to furthur devolop the complexities of the code and how it orcastates. The layering of skills was well incorporated and the limited instruction required me to play off of others ideas to come to my own conclusion. I think I did well and was only frustrated a few times.
 
+## CAD_Swing_Arm
+
+### Assignment Description
+I was to replicate a swing arm design based on it's drawings, and the to set the material to determine different masses.
+
+### Evidence
+
+
+### Reflection
+This project was the first to reintroduce me to onshape this year. It was relatively challenging but I appreaciated the difficulty. The ability to create a design based on limited information and contextualization of given information is a skill better practiced. It is the continuation of my advancing skill set.
 
 ## Intro_To_CAD
 
 ### Assignment Description
-Follow a step  by step to design a skateboard with all it's exeptional parts.
+Follow a step  by step to design a skateboard with all it's exeptional parts. assigned 2.1-2.5
 
 ### Evidence
 ![image](https://user-images.githubusercontent.com/61207267/138288465-e8244528-ef73-4a81-805c-c96ba33af0d2.png)
 
 ### Reflection
-This project was our second entry of CAD to start the year off. I found the tutuorial aspect to be a bit slow and hard to focus, and I often skimmed to get directly towards dimensions and other editing aspects. Though, following a tutorial with great effieciency allowed me to learn new options of design. I was using parts I otherwise wouldn't of used, or had since forgotten about since the summer, but now that knowledge has been rekindled.
+This project was our second entry of CAD to start the year off, where I designed a deck, trucks, bearings ect. I found the tutuorial aspect to be a bit slow and hard to focus, and I often skimmed to get directly towards dimensions and other editing aspects. Though, following a tutorial with great effieciency allowed me to learn new options of design. I was using parts I otherwise wouldn't of used, or had since forgotten about since the summer, but now that knowledge has been rekindled.
