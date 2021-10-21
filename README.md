@@ -5,6 +5,7 @@
 * [Quadratic Solver](#Quadratic_Solver)
 * [Strings and Loops](#Strings_and_Loops)
 * [Man Shaped Pinata](#MSP)
+* [Intro to CAD Skateboard](#Intro_to_CAD)
 
 ## Python_Calculator
 
@@ -51,3 +52,15 @@ the assignment was to create a program that would propose the infamous hangman g
 
 ### Reflection
 This project was definitley difficult but really incorporated the previous projects to meet a grand conclusion. It took a better understanding of syntax to furthur devolop the complexities of the code and how it orcastates. The layering of skills was well incorporated and the limited instruction required me to play off of others ideas to come to my own conclusion. I think I did well and was only frustrated a few times.
+
+
+## Intro_To_CAD
+
+### Assignment Description
+Follow a step  by step to design a skateboard with all it's exeptional parts.
+
+### Evidence
+![image](https://user-images.githubusercontent.com/61207267/138288465-e8244528-ef73-4a81-805c-c96ba33af0d2.png)
+
+### Reflection
+This project was our second entry of CAD to start the year off. I found the tutuorial aspect to be a bit slow and hard to focus, and I often skimmed to get directly towards dimensions and other editing aspects. Though, following a tutorial with great effieciency allowed me to learn new options of design. I was using parts I otherwise wouldn't of used, or had since forgotten about since the summer, but now that knowledge has been rekindled.
