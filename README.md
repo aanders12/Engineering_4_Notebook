@@ -60,7 +60,11 @@ This project was definitley difficult but really incorporated the previous proje
 I was to replicate a swing arm design based on it's drawings, and the to set the material to determine different masses.
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/61207267/138291128-396b2bb4-a68b-4df2-a471-018fb6a81734.png)
+hardened steele
 
+![image](https://user-images.githubusercontent.com/61207267/138291167-69db9f50-89ba-484c-ba5b-fa2dff5f140c.png)
+aluminum
 
 ### Reflection
 This project was the first to reintroduce me to onshape this year. It was relatively challenging but I appreaciated the difficulty. The ability to create a design based on limited information and contextualization of given information is a skill better practiced. It is the continuation of my advancing skill set.
