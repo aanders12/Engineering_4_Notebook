@@ -87,5 +87,7 @@ This project was our second entry of CAD to start the year off, where I designed
 Follow step by step instructions to design a lego brick duck. Assigned 3.1-3.4
 
 ### Evidence 
+![image](https://user-images.githubusercontent.com/61207267/140324730-63c84f68-c06d-4ada-afbc-03a1e0488a31.png)
 
 ### Reflection
+This assignemnt deepened my understanding of the many features on onshape assembley and design. As well as being my first expirence with creating drawings and uploading visual instructions. I aquired more skills concerning configurations and it was further amplified by aplying more variables ontop of other variables. I now have the skills of explosions, snap mates, and drawings under my tool belt and hopefully can use them again in the future.
