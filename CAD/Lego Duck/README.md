@@ -4,3 +4,8 @@
   such as the snap fit mate, exploded view, and fitting a part immediatley to the origin.
   
 link: https://cvilleschools.onshape.com/documents/46cb3a9d973243502be9d19a/w/b89def5f32cffdd92b715348/e/4e4ff44bf1904c02a860b2ec
+ 
+ 
+ note: added new color feature but could  not apply because of glitch in feature
+ where it cannot override a selected color, my duck is now purple, but I do not
+ mind.
