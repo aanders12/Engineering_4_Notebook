@@ -7,6 +7,7 @@
 * [Man Shaped Pinata](#MSP)
 * [CAD Swing Arm](#CAD_Swing_Arm)
 * [Intro to CAD Skateboard](#Intro_to_CAD)
+* [Intro to CAD Duck](#Intro_to_CAD_Duck)
 
 ## Python_Calculator
 
@@ -79,3 +80,12 @@ Follow a step  by step to design a skateboard with all it's exeptional parts. as
 
 ### Reflection
 This project was our second entry of CAD to start the year off, where I designed a deck, trucks, bearings ect. I found the tutuorial aspect to be a bit slow and hard to focus, and I often skimmed to get directly towards dimensions and other editing aspects. Though, following a tutorial with great effieciency allowed me to learn new options of design. I was using parts I otherwise wouldn't of used, or had since forgotten about since the summer, but now that knowledge has been rekindled.
+
+## Intro_To_CAD_Duck
+
+### Assignemt Description
+Follow step by step instructions to design a lego brick duck. Assigned 3.1-3.4
+
+### Evidence 
+
+### Reflection
