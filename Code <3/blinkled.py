@@ -6,16 +6,16 @@
 import RPi.GPIO as GPIO
 import time
 
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(21,GPIO.OUT) 
-GPIO.setup(26,GPIO.OUT)
+GPIO.setmode(GPIO.BCM) # sets pin numbering to BCM numbering
+GPIO.setup(21,GPIO.OUT) #sets pin 21 as output for led
+GPIO.setup(26,GPIO.OUT) #sets pin 26 as output for led
 GPIO.setwarnings(False)
 
 while True:
-	GPIO.output(21,GPIO.HIGH)
+	GPIO.output(21,GPIO.HIGH) #turns light on 
 	print("blue is bright, green is dim")
-	time.sleep(1)
-	GPIO.output(21,GPIO.LOW)
+	time.sleep(1) #second long break
+	GPIO.output(21,GPIO.LOW) #turns light off
 	GPIO.output(26,GPIO.HIGH)
 	print("blue is dim, green is bright")
 	time.sleep(1)
