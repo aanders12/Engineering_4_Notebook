@@ -8,6 +8,7 @@
 * [CAD Swing Arm](#CAD_Swing_Arm)
 * [Intro to CAD Skateboard](#Intro_to_CAD)
 * [Intro to CAD Duck](#Intro_to_CAD_Duck)
+* [RPi Safe Shutdown Button](#RPi_Safe_Shutdown_Button)
 
 ## Python_Calculator
 
@@ -91,3 +92,15 @@ Follow step by step instructions to design a lego brick duck. Assigned 3.1-3.4
 
 ### Reflection
 This assignemnt deepened my understanding of the many features on onshape assembley and design. As well as being my first expirence with creating drawings and uploading visual instructions. I aquired more skills concerning configurations and it was further amplified by aplying more variables ontop of other variables. I now have the skills of explosions, snap mates, and drawings under my tool belt and hopefully can use them again in the future.
+
+## RPi_Safe_Shutdown_Button
+
+### Assignment Description
+There was dire need to establish a suffiecent means of shutdown, considering the raspberry pi's are sensitive to sudden disconnect, I was tasked to create a button with
+two task. 1) Get the script to work so that the RPI reboots when the button is tapped and shuts down when the button is held, and 2) Ensure the script runs automaticallyv in the background everytime the RPi boots up.
+
+### Evidence
+
+### Wiring
+
+### Reflection
