@@ -100,11 +100,9 @@ There was dire need to establish a suffiecent means of shutdown, considering the
 two task. 1) Get the script to work so that the RPI reboots when the button is tapped and shuts down when the button is held, and 2) Ensure the script runs automaticallyv in the background everytime the RPi boots up.
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/61207267/145425526-dbbae7b0-96a8-41e3-b6eb-e9bee1018ccb.png)
 
-![image](https://user-images.githubusercontent.com/61207267/145425241-f5122a00-e412-46c3-9b49-3af6938d359c.png)
-
-### Wiring
- 
+### Wiring 
 ![image](https://user-images.githubusercontent.com/61207267/145425050-3596e08a-4ecf-4797-884c-10b67d315965.png)
 
 ### Reflection
