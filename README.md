@@ -106,7 +106,6 @@ https://user-images.githubusercontent.com/61207267/145422792-4b0b3d36-e7df-4ead-
 
 ### Wiring
 image of breadboard wiring: 
-
-https://user-images.githubusercontent.com/61207267/145423223-18468d4f-7e91-49db-bc89-bc9027f92b88.jpeg
+![image](https://user-images.githubusercontent.com/61207267/145425050-3596e08a-4ecf-4797-884c-10b67d315965.png)
 
 ### Reflection
