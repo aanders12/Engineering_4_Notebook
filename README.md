@@ -106,3 +106,4 @@ https://user-images.githubusercontent.com/61207267/145422792-4b0b3d36-e7df-4ead-
 ![image](https://user-images.githubusercontent.com/61207267/145425050-3596e08a-4ecf-4797-884c-10b67d315965.png)
 
 ### Reflection
+The hardest part of this assignment was putting the gif in for evidence. It was not particularly hard but all of my blunders where usuallay caused by skimming code and instructions, so I faced a few issue with instances such as; accidently copying the code twice in the nano window, forgetting/deleting the shutdown callback (this called my button to only ever restart), and not reading the different triggers for shutdown and restart (long press, short press). Though, having to figure my way through user error increased my likelihood of slowing down and insuring I am comprehending what I am doing by just a little more.
