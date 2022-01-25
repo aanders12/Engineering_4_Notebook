@@ -8,6 +8,7 @@
 * [CAD Swing Arm](#CAD_Swing_Arm)
 * [Intro to CAD Skateboard](#Intro_to_CAD)
 * [Intro to CAD Duck](#Intro_to_CAD_Duck)
+* [RPi Safe Shutdown Button](#RPi_Safe_Shutdown_Button)
 
 ## Python_Calculator
 
@@ -91,3 +92,18 @@ Follow step by step instructions to design a lego brick duck. Assigned 3.1-3.4
 
 ### Reflection
 This assignemnt deepened my understanding of the many features on onshape assembley and design. As well as being my first expirence with creating drawings and uploading visual instructions. I aquired more skills concerning configurations and it was further amplified by aplying more variables ontop of other variables. I now have the skills of explosions, snap mates, and drawings under my tool belt and hopefully can use them again in the future.
+
+## RPi_Safe_Shutdown_Button
+
+### Assignment Description
+There was dire need to establish a suffiecent means of shutdown, considering the raspberry pi's are sensitive to sudden disconnect, I was tasked to create a button with
+two task. 1) Get the script to work so that the RPI reboots when the button is tapped and shuts down when the button is held, and 2) Ensure the script runs automaticallyv in the background everytime the RPi boots up.
+
+### Evidence
+https://user-images.githubusercontent.com/61207267/145422792-4b0b3d36-e7df-4ead-a125-0646f09cf6c8.gif
+
+### Wiring 
+![image](https://user-images.githubusercontent.com/61207267/145425050-3596e08a-4ecf-4797-884c-10b67d315965.png)
+
+### Reflection
+The hardest part of this assignment was putting the gif in for evidence. It was not particularly hard but all of my blunders where usuallay caused by skimming code and instructions, so I faced a few issue with instances such as; accidently copying the code twice in the nano window, forgetting/deleting the shutdown callback (this called my button to only ever restart), and not reading the different triggers for shutdown and restart (long press, short press). Though, having to figure my way through user error increased my likelihood of slowing down and insuring I am comprehending what I am doing by just a little more.
