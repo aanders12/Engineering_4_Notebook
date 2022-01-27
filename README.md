@@ -117,6 +117,8 @@ The hardest part of this assignment was putting the gif in for evidence. It was 
 To prepare for "Pi in the Sky" this assignment set up the foundation of the accelerometer, which caluclates position on an x-, y-, & z-axis. It takes advantage of the GPIO Pins on the RaspberryPi (SDA & SCL) in order to allow the data of the LSM303 accelerator to be projected onto the OLED display. It encompases three aditional devices ( excluding the computer) and allows them to echange data on a minimal two lines. 
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/61207267/151389142-0efecc5b-eaa8-4b3b-bf0c-bac27cd2c450.png)
+
 
 ### Wiring
 
@@ -128,6 +130,8 @@ To prepare for "Pi in the Sky" this assignment set up the foundation of the acce
 This is a continuation from the GPIO Pins, where the OLED is to display one axis graphically (in this scenario the x-axis and as a bubble). After that inital goal is established in code, the next step is to run said code without a monitor, keyboard, or mouse. Essiatially insuring it is always running so long as the RaspberryPi has power.
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/61207267/151389212-5141960b-8a55-44cf-aca6-d8b833effa4d.png)
+
 
 ### Wiring
 
@@ -139,6 +143,9 @@ This is a continuation from the GPIO Pins, where the OLED is to display one axis
 Establishing a Camera to the RaspberryPi and then doing two camera test to develop images and their effect abilities.
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/61207267/151389271-4865d7fe-925d-4e60-9dfc-b7278e893de8.png)
+![image](https://user-images.githubusercontent.com/61207267/151389400-676dcdb7-0965-4672-8d71-38941ca4f950.png)
+
 
 ### Wiring
 
