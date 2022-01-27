@@ -122,6 +122,7 @@ To prepare for "Pi in the Sky" this assignment set up the foundation of the acce
 ### Wiring
 
 ### Reflection
+This assignement (re)introduced me to GPIO pins in a more detailed manner. In clairity I learned the actual functions and purpose of GPIO pins and then furthered my knowledge and skill more as the assignment became more and more challenging. 
 
 ## Headless_Accelerometer
 
@@ -134,6 +135,7 @@ This is a continuation from the GPIO Pins, where the OLED is to display one axis
 ### Wiring
 
 ### Reflection
+This assignement was well recieved, it truly addded onto previous knowledge and furthered my understanding of the way each piece interacts with the others and the possibility of all the functions.
 
 ## PiCamera
 
@@ -148,3 +150,4 @@ Establishing a Camera to the RaspberryPi and then doing two camera test to devel
 ### Wiring
 
 ### Reflection
+This assignment was effective in boosting my confidence and comfortablity in my engineering skills even though it was relativley easy it reaffirmed my joy in engineering. I found it in myself to be impressive and an interested asset to casually mention in converstation. I got bragging points with non-engineers.
