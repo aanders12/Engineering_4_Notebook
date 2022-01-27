@@ -9,6 +9,9 @@
 * [Intro to CAD Skateboard](#Intro_to_CAD)
 * [Intro to CAD Duck](#Intro_to_CAD_Duck)
 * [RPi Safe Shutdown Button](#RPi_Safe_Shutdown_Button)
+* [GPIO Pins I2C](#GPIO_Pins_I2C)
+* [Headless Accelerometer](#Headless_Accelerometer)
+* [Pi Camera](#PiCamera)
 
 ## Python_Calculator
 
@@ -107,3 +110,36 @@ https://user-images.githubusercontent.com/61207267/145422792-4b0b3d36-e7df-4ead-
 
 ### Reflection
 The hardest part of this assignment was putting the gif in for evidence. It was not particularly hard but all of my blunders where usuallay caused by skimming code and instructions, so I faced a few issue with instances such as; accidently copying the code twice in the nano window, forgetting/deleting the shutdown callback (this called my button to only ever restart), and not reading the different triggers for shutdown and restart (long press, short press). Though, having to figure my way through user error increased my likelihood of slowing down and insuring I am comprehending what I am doing by just a little more.
+
+## GPIO_Pins_I2C
+
+### Assignment Description
+To prepare for "Pi in the Sky" this assignment set up the foundation of the accelerometer, which caluclates position on an x-, y-, & z-axis. It takes advantage of the GPIO Pins on the RaspberryPi (SDA & SCL) in order to allow the data of the LSM303 accelerator to be projected onto the OLED display. It encompases three aditional devices ( excluding the computer) and allows them to echange data on a minimal two lines. 
+
+### Evidence
+
+### Wiring
+
+### Reflection
+
+## Headless_Accelerometer
+
+### Assignment Description
+This is a continuation from the GPIO Pins, where the OLED is to display one axis graphically (in this scenario the x-axis and as a bubble). After that inital goal is established in code, the next step is to run said code without a monitor, keyboard, or mouse. Essiatially insuring it is always running so long as the RaspberryPi has power.
+
+### Evidence
+
+### Wiring
+
+### Reflection
+
+## PiCamera
+
+### Assignment Description
+Establishing a Camera to the RaspberryPi and then doing two camera test to develop images and their effect abilities.
+
+### Evidence
+
+### Wiring
+
+### Reflection
