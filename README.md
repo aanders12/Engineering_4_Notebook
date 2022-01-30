@@ -116,10 +116,8 @@ The hardest part of this assignment was putting the gif in for evidence. It was 
 ### Assignment Description
 To prepare for "Pi in the Sky" this assignment set up the foundation of the accelerometer, which caluclates position on an x-, y-, & z-axis. It takes advantage of the GPIO Pins on the RaspberryPi (SDA & SCL) in order to allow the data of the LSM303 accelerator to be projected onto the OLED display. It encompases three aditional devices ( excluding the computer) and allows them to echange data on a minimal two lines. 
 
-### Evidence
+### Evidence/Wiring
 ![image](https://user-images.githubusercontent.com/61207267/151389966-9bbd6a86-9625-4ff1-8093-3fb4bc8635d6.png)
-
-### Wiring
 
 ### Reflection
 This assignement (re)introduced me to GPIO pins in a more detailed manner. In clairity I learned the actual functions and purpose of GPIO pins and then furthered my knowledge and skill more as the assignment became more and more challenging. 
@@ -129,10 +127,8 @@ This assignement (re)introduced me to GPIO pins in a more detailed manner. In cl
 ### Assignment Description
 This is a continuation from the GPIO Pins, where the OLED is to display one axis graphically (in this scenario the x-axis and as a bubble). After that inital goal is established in code, the next step is to run said code without a monitor, keyboard, or mouse. Essiatially insuring it is always running so long as the RaspberryPi has power.
 
-### Evidence
+### Evidence/Wiring
 ![image](https://user-images.githubusercontent.com/61207267/151390026-a475a40d-50c1-47d0-9ad5-5dc3dc59b74f.png)
-
-### Wiring
 
 ### Reflection
 This assignement was well recieved, it truly addded onto previous knowledge and furthered my understanding of the way each piece interacts with the others and the possibility of all the functions.
@@ -142,12 +138,9 @@ This assignement was well recieved, it truly addded onto previous knowledge and 
 ### Assignment Description
 Establishing a Camera to the RaspberryPi and then doing two camera test to develop images and their effect abilities.
 
-### Evidence
+### Evidence/Wiring
 ![image](https://user-images.githubusercontent.com/61207267/151390069-577f716b-b93d-4d72-83f0-25dc9bafebd6.png)
 ![image](https://user-images.githubusercontent.com/61207267/151389400-676dcdb7-0965-4672-8d71-38941ca4f950.png)
-
-
-### Wiring
 
 ### Reflection
 This assignment was effective in boosting my confidence and comfortablity in my engineering skills even though it was relativley easy it reaffirmed my joy in engineering. I found it in myself to be impressive and an interested asset to casually mention in converstation. I got bragging points with non-engineers.
